@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offers>
+  <offer>
+    <code>1234567890123</code>
+    <name>Тестовый товар</name>
+    <price>5290</price>
+    <saleprice>4990</saleprice>
+    <count>1</count>
+  </offer>
+</offers>
