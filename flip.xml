@@ -110,7 +110,7 @@
     <name>21st Century Calcium 600 75 таблеток</name>
     <price>2516</price>
     <saleprice>2390</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
     <code>740985275191</code>
@@ -201,7 +201,7 @@
     <name>21st Century Melatonin 3 mg 90 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>7</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>740985226735</code>
@@ -1734,7 +1734,7 @@
     <name>Миноксидил Boosh 10%</name>
     <price>8611</price>
     <saleprice>8180</saleprice>
-    <count>15</count>
+    <count>14</count>
   </offer>
   <offer>
     <code>4631139765292</code>
