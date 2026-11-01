@@ -1195,7 +1195,7 @@
     <name>Doctor's Best Magnesium 200mg, 120 tabletes</name>
     <price>7990</price>
     <saleprice>7590</saleprice>
-    <count>190</count>
+    <count>189</count>
   </offer>
   <offer>
     <code>753950002791</code>
@@ -1258,7 +1258,7 @@
     <name>American Health Ester-C 500 mg 60 capsules</name>
     <price>6200</price>
     <saleprice>5890</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>076630169813</code>
@@ -3309,7 +3309,7 @@
     <name>NOW Omega-3 100 капсул</name>
     <price>5990</price>
     <saleprice>5690</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
     <code>733739016522</code>
@@ -3596,7 +3596,7 @@
     <name>NOW Vitamin D-3 1000 IU 180 chewable</name>
     <price>5358</price>
     <saleprice>5090</saleprice>
-    <count>6</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>733739003652</code>
