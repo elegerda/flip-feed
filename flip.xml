@@ -5,7 +5,7 @@
     <name>21st Century Calcium Magnesium Zinc + D3 250 tablets</name>
     <price>7990</price>
     <saleprice>7590</saleprice>
-    <count>0</count>
+    <count>16</count>
   </offer>
   <offer>
     <code>740985227770</code>
@@ -40,21 +40,21 @@
     <name>21st Century Biotin 120 таблеток 10000мг</name>
     <price>6516</price>
     <saleprice>6190</saleprice>
-    <count>14</count>
+    <count>40</count>
   </offer>
   <offer>
     <code>740985211960</code>
     <name>21st Century B-6 100 mg 110 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>740985223093</code>
     <name>21st Century B-12 500 mcg 110 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>2</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>740985211045</code>
@@ -82,28 +82,28 @@
     <name>21st Century Acidophilus 100 capsules</name>
     <price>5779</price>
     <saleprice>5490</saleprice>
-    <count>3</count>
+    <count>9</count>
   </offer>
   <offer>
     <code>740985229286</code>
     <name>21st Century Acidophilus 150 capsules</name>
     <price>7148</price>
     <saleprice>6790</saleprice>
-    <count>0</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>740985270707</code>
     <name>21st Century Calcium 1000mg 90tabletes</name>
     <price>5358</price>
     <saleprice>5090</saleprice>
-    <count>17</count>
+    <count>20</count>
   </offer>
   <offer>
     <code>740985226537</code>
     <name>21st Centry Calcium 1200 mg 90 softgels</name>
     <price>7253</price>
     <saleprice>6890</saleprice>
-    <count>8</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>740985275320</code>
@@ -145,7 +145,7 @@
     <name>21st Century Calcium Magnesium Zinc + D3 90 таблеток</name>
     <price>3569</price>
     <saleprice>3390</saleprice>
-    <count>480</count>
+    <count>550</count>
   </offer>
   <offer>
     <code>740985213681</code>
@@ -159,7 +159,7 @@
     <name>21st Century Digestive Enzymes 60 capsules</name>
     <price>5148</price>
     <saleprice>4890</saleprice>
-    <count>5</count>
+    <count>9</count>
   </offer>
   <offer>
     <code>740985218280</code>
@@ -173,7 +173,7 @@
     <name>21st Century Fish Oil 1000 mg 60 softgels</name>
     <price>4200</price>
     <saleprice>3990</saleprice>
-    <count>4</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>740985213773</code>
@@ -201,14 +201,14 @@
     <name>21st Century Melatonin 3 mg 90 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>5</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>740985226735</code>
     <name>21st Century Multivitamin Sentry Supplement 120 Tablets men</name>
     <price>6306</price>
     <saleprice>5990</saleprice>
-    <count>8</count>
+    <count>13</count>
   </offer>
   <offer>
     <code>740985226759</code>
@@ -243,7 +243,7 @@
     <name>21st Century One Daily Men's 100 таблеток</name>
     <price>4622</price>
     <saleprice>4390</saleprice>
-    <count>20</count>
+    <count>30</count>
   </offer>
   <offer>
     <code>740985273067</code>
@@ -292,7 +292,7 @@
     <name>21st Century Resveratrol Red Wine Extract 90 capsules</name>
     <price>5779</price>
     <saleprice>5490</saleprice>
-    <count>12</count>
+    <count>14</count>
   </offer>
   <offer>
     <code>740985275405</code>
@@ -341,7 +341,7 @@
     <name>21st Century Super Collagen Plus Vitamin C 180 таблеток</name>
     <price>9990</price>
     <saleprice>9490</saleprice>
-    <count>1</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>740985214640</code>
@@ -362,7 +362,7 @@
     <name>21st Century Vitamin C 1000 мг 60 таблеток</name>
     <price>3253</price>
     <saleprice>3090</saleprice>
-    <count>3</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>740985280300</code>
@@ -558,7 +558,7 @@
     <name>Callifornia Gold Nutrition Collagen Peptides без добавок 500gr</name>
     <price>27148</price>
     <saleprice>25790</saleprice>
-    <count>1</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>898220023332</code>
@@ -589,11 +589,18 @@
     <count>0</count>
   </offer>
   <offer>
+    <code>898220019052</code>
+    <name>California Gold Nutrition Apple Cider Vinegar 60 veg caps</name>
+    <price>2832</price>
+    <saleprice>2690</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
     <code>898220012367</code>
     <name>California Gold Nutrition Buffered Gold C 750 mg 60 veg caps</name>
     <price>4516</price>
     <saleprice>4290</saleprice>
-    <count>6</count>
+    <count>8</count>
   </offer>
   <offer>
     <code>898220012015</code>
@@ -614,7 +621,7 @@
     <name>Callifornia Gold Nutrition Collagen UP Peptides Hyaluronic Acid +Vitamin C С 1 kg</name>
     <price>54306</price>
     <saleprice>51590</saleprice>
-    <count>2</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>898220011780</code>
@@ -642,7 +649,7 @@
     <name>California Gold Nutrition CoQ10 100mg 30 softgels</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>64</count>
+    <count>68</count>
   </offer>
   <offer>
     <code>898220010998</code>
@@ -656,7 +663,7 @@
     <name>California Gold Nutrition Gold C Vitamin C 1000 мг 60 капсул</name>
     <price>4095</price>
     <saleprice>3890</saleprice>
-    <count>113</count>
+    <count>123</count>
   </offer>
   <offer>
     <code>898220009343</code>
@@ -670,7 +677,7 @@
     <name>California Gold Nutrition Gold C Vitamin C 1000 мг 240 капсул</name>
     <price>11043</price>
     <saleprice>10490</saleprice>
-    <count>20</count>
+    <count>21</count>
   </offer>
   <offer>
     <code>898220013456</code>
@@ -684,7 +691,7 @@
     <name>California Gold Nutrition Iron 36 мг 90 капсул</name>
     <price>5464</price>
     <saleprice>5190</saleprice>
-    <count>4</count>
+    <count>8</count>
   </offer>
   <offer>
     <code>898220021161</code>
@@ -705,7 +712,7 @@
     <name>California Gold Nutrition L-Arginine 500 mg 60 veg caps</name>
     <price>4306</price>
     <saleprice>4090</saleprice>
-    <count>6</count>
+    <count>10</count>
   </offer>
   <offer>
     <code>898220011339</code>
@@ -719,7 +726,7 @@
     <name>California Gold Nutrition L-Theanine 100 mg 30 veg capsules</name>
     <price>3779</price>
     <saleprice>3590</saleprice>
-    <count>5</count>
+    <count>9</count>
   </offer>
   <offer>
     <code>898220012428</code>
@@ -747,21 +754,21 @@
     <name>California Gold Nutrition Lutein 20 mg 60 softgels</name>
     <price>6200</price>
     <saleprice>5890</saleprice>
-    <count>1</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>898220019014</code>
     <name>California Gold Nutrition Magnesium Bisglycinate 200 mg 60 veggie caps</name>
     <price>6200</price>
     <saleprice>5890</saleprice>
-    <count>31</count>
+    <count>30</count>
   </offer>
   <offer>
     <code>898220019021</code>
     <name>California Gold Nutrition Magnesium Bisglycinate 200 mg 240 veggie caps</name>
     <price>18200</price>
     <saleprice>17290</saleprice>
-    <count>23</count>
+    <count>22</count>
   </offer>
   <offer>
     <code>898220012985</code>
@@ -789,7 +796,7 @@
     <name>California Gold Nutrition PQQ 20 mg 30 veg softgels</name>
     <price>7358</price>
     <saleprice>6990</saleprice>
-    <count>4</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>898220013364</code>
@@ -824,7 +831,7 @@
     <name>California Gold Nutrition Vitamin D-3 2000 IU 90 капсул</name>
     <price>3674</price>
     <saleprice>3490</saleprice>
-    <count>69</count>
+    <count>90</count>
   </offer>
   <offer>
     <code>898220010349</code>
@@ -845,7 +852,7 @@
     <name>California Gold Nutrition Vitamin D-3 2000 IU 360 softgels</name>
     <price>8622</price>
     <saleprice>8190</saleprice>
-    <count>21</count>
+    <count>28</count>
   </offer>
   <offer>
     <code>898220010660</code>
@@ -859,7 +866,7 @@
     <name>California Gold Nutrition Vitamin D-3 5000 IU 90 капсул</name>
     <price>4095</price>
     <saleprice>3890</saleprice>
-    <count>0</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>898220008711</code>
@@ -894,7 +901,7 @@
     <name>California Gold Nutrition Омега 800 30 капсул</name>
     <price>7253</price>
     <saleprice>6890</saleprice>
-    <count>5</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>898220023325</code>
@@ -957,7 +964,7 @@
     <name>Carlson kids Iron 15 mg 60 tablets</name>
     <price>5148</price>
     <saleprice>4890</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>88395015267</code>
@@ -978,7 +985,7 @@
     <name>Carlson Super Omega 2 in 1 1200 mg</name>
     <price>18727</price>
     <saleprice>17790</saleprice>
-    <count>1</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>88395015403</code>
@@ -1132,7 +1139,7 @@
     <name>Doctor's Best High Absorption CoQ10 100 mg 60 softgels</name>
     <price>7674</price>
     <saleprice>7290</saleprice>
-    <count>5</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>753950001046</code>
@@ -1181,14 +1188,14 @@
     <name>Doctors Best Extra Strength Ginkgo 120 mg 120 veg caps</name>
     <price>8832</price>
     <saleprice>8390</saleprice>
-    <count>4</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>753950004597</code>
     <name>Doctors Best Iron 27 mg 120 tablets</name>
     <price>6727</price>
     <saleprice>6390</saleprice>
-    <count>9</count>
+    <count>13</count>
   </offer>
   <offer>
     <code>753950000803</code>
@@ -1230,7 +1237,7 @@
     <name>Doctor's Best Vitamin D3 5.000 iu 180 softgels</name>
     <price>4937</price>
     <saleprice>4690</saleprice>
-    <count>386</count>
+    <count>385</count>
   </offer>
   <offer>
     <code>670480981207</code>
@@ -1265,7 +1272,7 @@
     <name>American Health Ester-C 500 mg 90 veg tablets</name>
     <price>6411</price>
     <saleprice>6090</saleprice>
-    <count>3</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>076630169653</code>
@@ -1496,7 +1503,7 @@
     <name>Life Extensoin Cruciferous Vegetable 60 veg capsules</name>
     <price>12411</price>
     <saleprice>11790</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>737870152910</code>
@@ -1615,7 +1622,7 @@
     <name>Life Flo Iodine orange flavor 59 ml</name>
     <price>5043</price>
     <saleprice>4790</saleprice>
-    <count>51</count>
+    <count>54</count>
   </offer>
   <offer>
     <code>645951405308</code>
@@ -1671,7 +1678,7 @@
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>7092</price>
     <saleprice>6737</saleprice>
-    <count>279</count>
+    <count>278</count>
   </offer>
   <offer>
     <code>400000000725</code>
@@ -1755,28 +1762,28 @@
     <name>Миноксидил Boosh 5%</name>
     <price>5449</price>
     <saleprice>5176</saleprice>
-    <count>13</count>
+    <count>12</count>
   </offer>
   <offer>
     <code>400000000527</code>
     <name>Kirkland Minoxidil 5% для мужчин 1 флакон 60 мл</name>
     <price>5587</price>
     <saleprice>5307</saleprice>
-    <count>278</count>
+    <count>276</count>
   </offer>
   <offer>
     <code>2040410020623</code>
     <name>Kirkland Minoxidil 5% пена 1 флакон 60 мл</name>
     <price>11677</price>
     <saleprice>11093</saleprice>
-    <count>43</count>
+    <count>46</count>
   </offer>
   <offer>
     <code>2040410075623</code>
     <name>iiSolutions Minoxidil 15% для мужчин 60 мл</name>
     <price>16200</price>
     <saleprice>15390</saleprice>
-    <count>16</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>679234052996</code>
@@ -1846,7 +1853,7 @@
     <name>Stress-Relax Adrenal Serenity 60 veg capsule</name>
     <price>8411</price>
     <saleprice>7990</saleprice>
-    <count>6</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>068958013237</code>
@@ -1937,14 +1944,14 @@
     <name>Natural Factors Vitamin D3 400 МЕ 15ml</name>
     <price>6516</price>
     <saleprice>6190</saleprice>
-    <count>2</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>068958010595</code>
     <name>Natural Factors Vitamin D3 клубничный 10 мкг 400 МЕ 100 таблеток</name>
     <price>3779</price>
     <saleprice>3590</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>068958035444</code>
@@ -1979,7 +1986,7 @@
     <name>Nature's Answer Black Walnut Hull 2000 mg 30 ml</name>
     <price>6200</price>
     <saleprice>5890</saleprice>
-    <count>2</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>083000006579</code>
@@ -2049,7 +2056,7 @@
     <name>NaturesPlus Animal Parade Grape 90 tablets</name>
     <price>8411</price>
     <saleprice>7990</saleprice>
-    <count>2</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>97467299740</code>
@@ -2154,7 +2161,7 @@
     <name>Natures Plus Animal Parade Vitamin C sugar free 90 tablets</name>
     <price>9253</price>
     <saleprice>8790</saleprice>
-    <count>8</count>
+    <count>11</count>
   </offer>
   <offer>
     <code>097467299641</code>
@@ -2266,7 +2273,7 @@
     <name>Nature's Way Alive! Complete Multivitamin Women 50+  50 tablets</name>
     <price>8306</price>
     <saleprice>7890</saleprice>
-    <count>1</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>033674112007</code>
@@ -2294,7 +2301,7 @@
     <name>Nature's Way, Alive! Раз в день для мужчин 50 таблеток</name>
     <price>9358</price>
     <saleprice>8890</saleprice>
-    <count>6</count>
+    <count>9</count>
   </offer>
   <offer>
     <code>033674136638</code>
@@ -2308,7 +2315,7 @@
     <name>Nature's Way Biotin Forte 3 mg zinc 60 tablets</name>
     <price>7990</price>
     <saleprice>7590</saleprice>
-    <count>0</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>358008035020</code>
@@ -2392,14 +2399,14 @@
     <name>NOW Foods Sunflower Lecithin pure powder 454 g</name>
     <price>14727</price>
     <saleprice>13990</saleprice>
-    <count>5</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>733739047892</code>
     <name>NOW Lion's Mane 500 mg 60 veg caps</name>
     <price>10937</price>
     <saleprice>10390</saleprice>
-    <count>0</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>733739046062</code>
@@ -2441,7 +2448,7 @@
     <name>Now Calcium Magnesium 120 softgels</name>
     <price>9148</price>
     <saleprice>8690</saleprice>
-    <count>0</count>
+    <count>11</count>
   </offer>
   <offer>
     <code>733739000972</code>
@@ -2539,7 +2546,7 @@
     <name>NOW Adam Men's Multi 180 Softgels</name>
     <price>31253</price>
     <saleprice>29690</saleprice>
-    <count>1</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>733739029386</code>
@@ -2623,7 +2630,7 @@
     <name>Now Multi Collagen Protein 1, 2, 3, 454g</name>
     <price>20937</price>
     <saleprice>19890</saleprice>
-    <count>0</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>733739004703</code>
@@ -2665,7 +2672,7 @@
     <name>Now C-1000 100 tablets</name>
     <price>6200</price>
     <saleprice>5890</saleprice>
-    <count>7</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>733739006905</code>
@@ -2700,7 +2707,7 @@
     <name>Now C-1000 Zinc &amp; D3 100 veg capsules</name>
     <price>8516</price>
     <saleprice>8090</saleprice>
-    <count>6</count>
+    <count>11</count>
   </offer>
   <offer>
     <code>733739012456</code>
@@ -2728,14 +2735,14 @@
     <name>Now Calcium Citrate 227 gr</name>
     <price>9779</price>
     <saleprice>9290</saleprice>
-    <count>5</count>
+    <count>8</count>
   </offer>
   <offer>
     <code>733739012531</code>
     <name>Now Calcium Hydroxiapatite Caps 120 caps</name>
     <price>8727</price>
     <saleprice>8290</saleprice>
-    <count>3</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>733739012722</code>
@@ -2917,7 +2924,7 @@
     <name>Now Glycine 1000 mg 100 veg capsules</name>
     <price>7674</price>
     <saleprice>7290</saleprice>
-    <count>3</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>733739049827</code>
@@ -3001,7 +3008,7 @@
     <name>Now Kids Kid Cal 100 chewables</name>
     <price>9990</price>
     <saleprice>9490</saleprice>
-    <count>1</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>733739000309</code>
@@ -3043,7 +3050,7 @@
     <name>Now L-Tryptophan 500 mg 60 veg capsules</name>
     <price>9148</price>
     <saleprice>8690</saleprice>
-    <count>0</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>733739001139</code>
@@ -3148,7 +3155,7 @@
     <name>Now Magnesium Calcium 250 tabletes</name>
     <price>17779</price>
     <saleprice>16890</saleprice>
-    <count>2</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>733739012838</code>
@@ -3190,7 +3197,7 @@
     <name>Now Magnesium Citrate 200 mg 250 tablets</name>
     <price>17674</price>
     <saleprice>16790</saleprice>
-    <count>2</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>733739012951</code>
@@ -3225,7 +3232,7 @@
     <name>Now Mega D-3 &amp; MK-7 5000 IU 60 Veg Capsules</name>
     <price>11569</price>
     <saleprice>10990</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>733739032553</code>
@@ -3239,7 +3246,7 @@
     <name>NOW Melatonin 5 мг 120 таблеток</name>
     <price>6832</price>
     <saleprice>6490</saleprice>
-    <count>7</count>
+    <count>10</count>
   </offer>
   <offer>
     <code>733739004918</code>
@@ -3267,7 +3274,7 @@
     <name>Now NAC 1000mg 120 tab</name>
     <price>14095</price>
     <saleprice>13390</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>733739000866</code>
@@ -3302,14 +3309,14 @@
     <name>NOW Omega-3 (30 капсул)</name>
     <price>3043</price>
     <saleprice>2890</saleprice>
-    <count>9</count>
+    <count>12</count>
   </offer>
   <offer>
     <code>733739016508</code>
     <name>NOW Omega-3 100 капсул</name>
     <price>5990</price>
     <saleprice>5690</saleprice>
-    <count>4</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>733739016522</code>
@@ -3470,7 +3477,7 @@
     <name>NOW Selenium 100mg 100 tabletes</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>4</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>733739047397</code>
@@ -3505,7 +3512,7 @@
     <name>NOW Spirulina 500 мг 100 таблеток</name>
     <price>4622</price>
     <saleprice>4390</saleprice>
-    <count>11</count>
+    <count>10</count>
   </offer>
   <offer>
     <code>733739026989</code>
@@ -3547,14 +3554,14 @@
     <name>Now Taurine 500mg 100 veg capsule</name>
     <price>4832</price>
     <saleprice>4590</saleprice>
-    <count>13</count>
+    <count>12</count>
   </offer>
   <offer>
     <code>733739016638</code>
     <name>NOW Ultra Omega 3-D 90 капсул</name>
     <price>14832</price>
     <saleprice>14090</saleprice>
-    <count>4</count>
+    <count>14</count>
   </offer>
   <offer>
     <code>733739016645</code>
@@ -3575,7 +3582,7 @@
     <name>NOW Ultra Omega-3 90 капсул</name>
     <price>12516</price>
     <saleprice>11890</saleprice>
-    <count>0</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>733739003423</code>
@@ -3743,7 +3750,7 @@
     <name>Nutribiotic GSE 59 ml</name>
     <price>8306</price>
     <saleprice>7890</saleprice>
-    <count>7</count>
+    <count>8</count>
   </offer>
   <offer>
     <code>728177005603</code>
@@ -3757,7 +3764,7 @@
     <name>Nutribiotic Sodium Ascorbate 227 g</name>
     <price>8411</price>
     <saleprice>7990</saleprice>
-    <count>23</count>
+    <count>31</count>
   </offer>
   <offer>
     <code>728177004606</code>
@@ -3876,7 +3883,7 @@
     <name>Solaray Copper 2mg 100 veg caps</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>5</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>76280461053</code>
@@ -3890,7 +3897,7 @@
     <name>Solaray Magnesium Glycinate 350 mg 120 veg caps</name>
     <price>9990</price>
     <saleprice>9490</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>76280627541</code>
@@ -3911,7 +3918,7 @@
     <name>Solaray Vitamin D3 + K2 125 mcg 60 vegcaps</name>
     <price>8727</price>
     <saleprice>8290</saleprice>
-    <count>2</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>076280574456</code>
@@ -4170,7 +4177,7 @@
     <name>Swanson Biotin 10 000 mcg замедленного высвобождения 60 tablets</name>
     <price>5148</price>
     <saleprice>4890</saleprice>
-    <count>1</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>87614142876</code>
@@ -4198,7 +4205,7 @@
     <name>Swanson DHEA 50 mg 120 capsules</name>
     <price>10306</price>
     <saleprice>9790</saleprice>
-    <count>2</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>087614110417</code>
@@ -4422,7 +4429,7 @@
     <name>SR Collagen Peptides 110,7 g</name>
     <price>11569</price>
     <saleprice>10990</saleprice>
-    <count>1</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>841058001584</code>
@@ -4562,7 +4569,7 @@
     <name>Havasu Nutrition Vitamin C Gummies 60 gummies</name>
     <price>5569</price>
     <saleprice>5290</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>354973324312</code>
