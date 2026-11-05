@@ -145,7 +145,7 @@
     <name>21st Century Calcium Magnesium Zinc + D3 90 таблеток</name>
     <price>3569</price>
     <saleprice>3390</saleprice>
-    <count>484</count>
+    <count>483</count>
   </offer>
   <offer>
     <code>740985213681</code>
@@ -362,7 +362,7 @@
     <name>21st Century Vitamin C 1000 мг 60 таблеток</name>
     <price>3253</price>
     <saleprice>3090</saleprice>
-    <count>4</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>740985280300</code>
@@ -540,6 +540,13 @@
     <count>4</count>
   </offer>
   <offer>
+    <code>898220019694</code>
+    <name>California Gold Nutrition Magnesium Chelate 270 tabletes</name>
+    <price>8516</price>
+    <saleprice>8090</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
     <code>898220010929</code>
     <name>California Gold Nutrition Vitamin C Gummies + Vitamin A, 90 жевательных</name>
     <price>7990</price>
@@ -561,11 +568,25 @@
     <count>5</count>
   </offer>
   <offer>
+    <code>898220020232</code>
+    <name>California Gold Nutrition Benfotiamine 300 mg 90 veg caps</name>
+    <price>9779</price>
+    <saleprice>9290</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
     <code>898220018994</code>
     <name>California Gold Nutrition S-Acetyl-L-Glutathione 100 mg 30 veg caps</name>
     <price>7990</price>
     <saleprice>7590</saleprice>
     <count>3</count>
+  </offer>
+  <offer>
+    <code>898220020256</code>
+    <name>California Gold Nutrition Benfotiamine 150 mg 90 veg caps</name>
+    <price>6937</price>
+    <saleprice>6590</saleprice>
+    <count>0</count>
   </offer>
   <offer>
     <code>898220012367</code>
@@ -621,7 +642,7 @@
     <name>California Gold Nutrition CoQ10 100mg 30 softgels</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>65</count>
+    <count>64</count>
   </offer>
   <offer>
     <code>898220010998</code>
@@ -733,7 +754,7 @@
     <name>California Gold Nutrition Magnesium Bisglycinate 200 mg 60 veggie caps</name>
     <price>6200</price>
     <saleprice>5890</saleprice>
-    <count>34</count>
+    <count>31</count>
   </offer>
   <offer>
     <code>898220019021</code>
@@ -1041,7 +1062,7 @@
     <name>ChildLife Vitamin D3 30 мл</name>
     <price>7674</price>
     <saleprice>7290</saleprice>
-    <count>7</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>608274103504</code>
@@ -1188,7 +1209,7 @@
     <name>Doctor's Best Magnesium 200mg, 120 tabletes</name>
     <price>8095</price>
     <saleprice>7690</saleprice>
-    <count>176</count>
+    <count>175</count>
   </offer>
   <offer>
     <code>753950002791</code>
@@ -1496,7 +1517,7 @@
     <name>Life Extension Magnesium Caps 500 mg 100 veg capsule</name>
     <price>5253</price>
     <saleprice>4990</saleprice>
-    <count>45</count>
+    <count>44</count>
   </offer>
   <offer>
     <code>737870168218</code>
@@ -1636,7 +1657,7 @@
     <name>Life Tree Fat Burning Complex premium 30 tablets</name>
     <price>3767</price>
     <saleprice>3578</saleprice>
-    <count>92</count>
+    <count>90</count>
   </offer>
   <offer>
     <code>400000000213</code>
@@ -1650,7 +1671,7 @@
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>7092</price>
     <saleprice>6737</saleprice>
-    <count>281</count>
+    <count>280</count>
   </offer>
   <offer>
     <code>400000000725</code>
@@ -1944,7 +1965,7 @@
     <name>Natural Factors Zinc Citrate 15 mg 90 tablets</name>
     <price>3674</price>
     <saleprice>3490</saleprice>
-    <count>8</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>068958016801</code>
@@ -2210,7 +2231,7 @@
     <name>Nature's Plus Hema-Plex 60 капсул</name>
     <price>8937</price>
     <saleprice>8490</saleprice>
-    <count>8</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>097467376915</code>
@@ -3736,7 +3757,7 @@
     <name>Nutribiotic Sodium Ascorbate 227 g</name>
     <price>8411</price>
     <saleprice>7990</saleprice>
-    <count>25</count>
+    <count>24</count>
   </offer>
   <offer>
     <code>728177004606</code>
@@ -3995,7 +4016,7 @@
     <name>Solgar Chelated Iron 25 mg 100 tablets</name>
     <price>7043</price>
     <saleprice>6690</saleprice>
-    <count>9</count>
+    <count>8</count>
   </offer>
   <offer>
     <code>2000000013763</code>
