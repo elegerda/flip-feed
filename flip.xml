@@ -145,7 +145,7 @@
     <name>21st Century Calcium Magnesium Zinc + D3 90 таблеток</name>
     <price>3569</price>
     <saleprice>3390</saleprice>
-    <count>526</count>
+    <count>524</count>
   </offer>
   <offer>
     <code>740985213681</code>
@@ -187,7 +187,7 @@
     <name>21st Century Iron 65 mg Ferrous Sulfate 325 mg 120 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>13</count>
+    <count>11</count>
   </offer>
   <offer>
     <code>740985227138</code>
@@ -362,7 +362,7 @@
     <name>21st Century Vitamin C 1000 мг 60 таблеток</name>
     <price>3253</price>
     <saleprice>3090</saleprice>
-    <count>4</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>740985280300</code>
@@ -384,13 +384,6 @@
     <price>2516</price>
     <saleprice>2390</saleprice>
     <count>5</count>
-  </offer>
-  <offer>
-    <code>740985226612</code>
-    <name>21st Century Vitamin D-3 10 mcg 400 IU 100 tablets</name>
-    <price>2516</price>
-    <saleprice>2390</saleprice>
-    <count>0</count>
   </offer>
   <offer>
     <code>740985213025</code>
@@ -619,8 +612,8 @@
   <offer>
     <code>898220021017</code>
     <name>Callifornia Gold Nutrition Collagen UP Peptides Hyaluronic Acid +Vitamin C С 1 kg</name>
-    <price>54832</price>
-    <saleprice>52090</saleprice>
+    <price>54727</price>
+    <saleprice>51990</saleprice>
     <count>4</count>
   </offer>
   <offer>
@@ -678,13 +671,6 @@
     <price>11043</price>
     <saleprice>10490</saleprice>
     <count>21</count>
-  </offer>
-  <offer>
-    <code>898220013456</code>
-    <name>California Gold Nutrution Daily Prenatal Multi 60 softgels plus Alpha</name>
-    <price>15569</price>
-    <saleprice>14790</saleprice>
-    <count>0</count>
   </offer>
   <offer>
     <code>898220013470</code>
@@ -1482,7 +1468,7 @@
     <name>Life Extension Melatonin 3 mg 60 veg caps</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>7</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>737870888062</code>
@@ -3309,7 +3295,7 @@
     <name>NOW Omega-3 (30 капсул)</name>
     <price>3043</price>
     <saleprice>2890</saleprice>
-    <count>10</count>
+    <count>9</count>
   </offer>
   <offer>
     <code>733739016508</code>
