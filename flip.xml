@@ -103,7 +103,7 @@
     <name>21st Centry Calcium 1200 mg 90 softgels</name>
     <price>7253</price>
     <saleprice>6890</saleprice>
-    <count>6</count>
+    <count>8</count>
   </offer>
   <offer>
     <code>740985275320</code>
@@ -138,14 +138,14 @@
     <name>21st Century Calcium Citrate + D3 75 tabletes</name>
     <price>4306</price>
     <saleprice>4090</saleprice>
-    <count>10</count>
+    <count>9</count>
   </offer>
   <offer>
     <code>740985222638</code>
     <name>21st Century Calcium Magnesium Zinc + D3 90 таблеток</name>
     <price>3569</price>
     <saleprice>3390</saleprice>
-    <count>511</count>
+    <count>506</count>
   </offer>
   <offer>
     <code>740985213681</code>
@@ -187,7 +187,7 @@
     <name>21st Century Iron 65 mg Ferrous Sulfate 325 mg 120 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>11</count>
+    <count>10</count>
   </offer>
   <offer>
     <code>740985227138</code>
@@ -334,7 +334,7 @@
     <name>21st Century Selenium 200mcg 60 capsules</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>1</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>740985224243</code>
@@ -355,7 +355,7 @@
     <name>21st Century Vitamin C 1000 мг 110 таблеток</name>
     <price>6411</price>
     <saleprice>6090</saleprice>
-    <count>3</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>740985280133</code>
@@ -1209,7 +1209,7 @@
     <name>Doctors Best Nac Detox Regulators 60 veg caps</name>
     <price>7043</price>
     <saleprice>6690</saleprice>
-    <count>25</count>
+    <count>24</count>
   </offer>
   <offer>
     <code>753950001367</code>
@@ -1223,7 +1223,7 @@
     <name>Doctor's Best Vitamin D3 5.000 iu 180 softgels</name>
     <price>4832</price>
     <saleprice>4590</saleprice>
-    <count>339</count>
+    <count>338</count>
   </offer>
   <offer>
     <code>670480981207</code>
@@ -1664,7 +1664,7 @@
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>6891</price>
     <saleprice>6546</saleprice>
-    <count>270</count>
+    <count>269</count>
   </offer>
   <offer>
     <code>400000000725</code>
@@ -1734,7 +1734,7 @@
     <name>Миноксидил Boosh 10%</name>
     <price>8272</price>
     <saleprice>7858</saleprice>
-    <count>13</count>
+    <count>11</count>
   </offer>
   <offer>
     <code>4631139765292</code>
@@ -1755,7 +1755,7 @@
     <name>Kirkland Minoxidil 5% для мужчин 1 флакон 60 мл</name>
     <price>5544</price>
     <saleprice>5266</saleprice>
-    <count>278</count>
+    <count>275</count>
   </offer>
   <offer>
     <code>2040410020623</code>
@@ -1958,7 +1958,7 @@
     <name>Natural Factors Zinc Citrate 15 mg 90 tablets</name>
     <price>3674</price>
     <saleprice>3490</saleprice>
-    <count>5</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>068958016801</code>
@@ -2140,7 +2140,7 @@
     <name>Nature's Plus Animal Parade Vitamin C 90 tablets</name>
     <price>7148</price>
     <saleprice>6790</saleprice>
-    <count>15</count>
+    <count>14</count>
   </offer>
   <offer>
     <code>097467299221</code>
@@ -2210,7 +2210,7 @@
     <name>Nature's Plus Hema-Plex 30 таблеток</name>
     <price>7358</price>
     <saleprice>6990</saleprice>
-    <count>1</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>097467037687</code>
@@ -2861,7 +2861,7 @@
     <name>NOW Folic Acid 800 mcg 250 Tabletes</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>5</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>733739000873</code>
@@ -3561,7 +3561,7 @@
     <name>NOW Ultra Omega-3 180 капсул</name>
     <price>24200</price>
     <saleprice>22990</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>733739016614</code>
@@ -3589,7 +3589,7 @@
     <name>NOW Vitamin D-3 1000 IU 180 chewable</name>
     <price>5358</price>
     <saleprice>5090</saleprice>
-    <count>2</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>733739003652</code>
@@ -3708,7 +3708,7 @@
     <name>NOW Zinc 50 mg 250 tabletes</name>
     <price>8095</price>
     <saleprice>7690</saleprice>
-    <count>4</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>733739015549</code>
@@ -4002,7 +4002,7 @@
     <name>Solgar Skin Nails &amp; Hair Advanced Msm Formula 120 таблеток</name>
     <price>15253</price>
     <saleprice>14490</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>033984006805</code>
@@ -4492,7 +4492,7 @@
     <name>Fairhaven Health Myo-Inositol 120 caps</name>
     <price>14937</price>
     <saleprice>14190</saleprice>
-    <count>1</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>665553228808</code>
