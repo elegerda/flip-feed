@@ -47,7 +47,7 @@
     <name>21st Century B-6 100 mg 110 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>3</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>740985223093</code>
@@ -145,7 +145,7 @@
     <name>21st Century Calcium Magnesium Zinc + D3 90 таблеток</name>
     <price>3569</price>
     <saleprice>3390</saleprice>
-    <count>485</count>
+    <count>483</count>
   </offer>
   <offer>
     <code>740985213681</code>
@@ -306,7 +306,7 @@
     <name>21st Century Senior Adult 50+ 125 tablets</name>
     <price>5569</price>
     <saleprice>5290</saleprice>
-    <count>6</count>
+    <count>8</count>
   </offer>
   <offer>
     <code>740985275429</code>
@@ -649,7 +649,7 @@
     <name>California Gold Nutrition Gold C 118 мл</name>
     <price>8411</price>
     <saleprice>7990</saleprice>
-    <count>5</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>898220009312</code>
@@ -1146,7 +1146,7 @@
     <name>Doctor's Best Collagen Types 1 and 3 1000mg 180 tablets</name>
     <price>11990</price>
     <saleprice>11390</saleprice>
-    <count>26</count>
+    <count>25</count>
   </offer>
   <offer>
     <code>753950002630</code>
@@ -1223,7 +1223,7 @@
     <name>Doctor's Best Vitamin D3 5.000 iu 180 softgels</name>
     <price>4832</price>
     <saleprice>4590</saleprice>
-    <count>331</count>
+    <count>330</count>
   </offer>
   <offer>
     <code>670480981207</code>
@@ -1356,7 +1356,7 @@
     <name>Jarrow Formulas B-Right 100 veg capsules</name>
     <price>16095</price>
     <saleprice>15290</saleprice>
-    <count>0</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>790011300069</code>
@@ -1825,7 +1825,7 @@
     <name>Natrol Melatonin sleep 3 mg 90 tablets</name>
     <price>6832</price>
     <saleprice>6490</saleprice>
-    <count>12</count>
+    <count>15</count>
   </offer>
   <offer>
     <code>47469161064</code>
@@ -1937,7 +1937,7 @@
     <name>Natural Factors Vitamin D3 клубничный 10 мкг 400 МЕ 100 таблеток</name>
     <price>3674</price>
     <saleprice>3490</saleprice>
-    <count>2</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>068958035444</code>
@@ -2294,7 +2294,7 @@
     <name>Nature's Way, Alive! Women's energy 50 tablets</name>
     <price>8832</price>
     <saleprice>8390</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>354022109815</code>
@@ -2357,7 +2357,7 @@
     <name>Nordic Naturals 1560 237 ml</name>
     <price>17779</price>
     <saleprice>16890</saleprice>
-    <count>4</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>768990018176</code>
@@ -2616,7 +2616,7 @@
     <name>Now Multi Collagen Protein 1, 2, 3, 454g</name>
     <price>20727</price>
     <saleprice>19690</saleprice>
-    <count>2</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>733739004703</code>
@@ -2749,7 +2749,7 @@
     <name>NOW Cat's Claw 500mg 100 veg capsules</name>
     <price>5358</price>
     <saleprice>5090</saleprice>
-    <count>4</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>733739012739</code>
@@ -3015,7 +3015,7 @@
     <name>Now L-Cysteine 500 mg 100 tablets</name>
     <price>8727</price>
     <saleprice>8290</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>733739001658</code>
@@ -3134,7 +3134,7 @@
     <name>Now Magnesium Calcium 100 таблеток</name>
     <price>8516</price>
     <saleprice>8090</saleprice>
-    <count>2</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>733739012784</code>
@@ -3190,7 +3190,7 @@
     <name>Now Magnesium Citrate 227g</name>
     <price>8727</price>
     <saleprice>8290</saleprice>
-    <count>8</count>
+    <count>11</count>
   </offer>
   <offer>
     <code>733739012890</code>
@@ -3288,7 +3288,7 @@
     <name>Now Niacinamide 500 mg 100 capsules</name>
     <price>5358</price>
     <saleprice>5090</saleprice>
-    <count>0</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>733739016492</code>
@@ -3897,7 +3897,7 @@
     <name>Solaray Total Cleance Lymph 60 veg capsules</name>
     <price>7253</price>
     <saleprice>6890</saleprice>
-    <count>2</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>076280385847</code>
@@ -4030,7 +4030,7 @@
     <name>Solgar Biotin 300 mcg 100 tablets</name>
     <price>5148</price>
     <saleprice>4890</saleprice>
-    <count>2</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>33984041141</code>
@@ -4233,7 +4233,7 @@
     <name>Swanson L-Glutamine 500 mg 100 veg caps</name>
     <price>5779</price>
     <saleprice>5490</saleprice>
-    <count>2</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>087614015316</code>
@@ -4408,7 +4408,7 @@
     <name>SR Collagen Peptides 454 g</name>
     <price>25148</price>
     <saleprice>23890</saleprice>
-    <count>3</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>023249012641</code>
