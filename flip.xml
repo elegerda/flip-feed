@@ -243,7 +243,7 @@
     <name>21st Century One Daily Men's 100 таблеток</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>18</count>
+    <count>17</count>
   </offer>
   <offer>
     <code>740985273067</code>
@@ -2420,7 +2420,7 @@
     <name>Nordic Naturals 1560 237 ml</name>
     <price>18937</price>
     <saleprice>17990</saleprice>
-    <count>6</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>768990018176</code>
@@ -3125,8 +3125,8 @@
   <offer>
     <code>733739038821</code>
     <name>Now Kids Kid Vits 120 chewables</name>
-    <price>8516</price>
-    <saleprice>8090</saleprice>
+    <price>10306</price>
+    <saleprice>9790</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3160,8 +3160,8 @@
   <offer>
     <code>733739001658</code>
     <name>NOW L-Tyrosine 750 mg 90 veg caps</name>
-    <price>8937</price>
-    <saleprice>8490</saleprice>
+    <price>8516</price>
+    <saleprice>8090</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3188,8 +3188,8 @@
   <offer>
     <code>733739001009</code>
     <name>Now L-Lysine 500 mg 100 tablets</name>
-    <price>4516</price>
-    <saleprice>4290</saleprice>
+    <price>7569</price>
+    <saleprice>7190</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3209,8 +3209,8 @@
   <offer>
     <code>733739022103</code>
     <name>NOW Lecithin 1200mg 100 softgels</name>
-    <price>7043</price>
-    <saleprice>6690</saleprice>
+    <price>9885</price>
+    <saleprice>9390</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3251,15 +3251,15 @@
   <offer>
     <code>733739047625</code>
     <name>Now Maca 500mg 250 veg capsules</name>
-    <price>11358</price>
-    <saleprice>10790</saleprice>
+    <price>9885</price>
+    <saleprice>9390</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>733739047212</code>
     <name>Now Maca 500mg 100 veg capsules</name>
-    <price>5779</price>
-    <saleprice>5490</saleprice>
+    <price>10411</price>
+    <saleprice>9890</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3314,8 +3314,8 @@
   <offer>
     <code>733739012968</code>
     <name>Now Magnesium Citrate 240 veg capsules</name>
-    <price>16200</price>
-    <saleprice>15390</saleprice>
+    <price>18937</price>
+    <saleprice>17990</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3391,15 +3391,15 @@
   <offer>
     <code>733739021205</code>
     <name>NOW MSM 1000mg 120 veg caps</name>
-    <price>7148</price>
-    <saleprice>6790</saleprice>
+    <price>17779</price>
+    <saleprice>16890</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>733739001856</code>
     <name>Now NAC 1000mg 120 tab</name>
-    <price>17779</price>
-    <saleprice>16890</saleprice>
+    <price>25358</price>
+    <saleprice>24090</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3482,8 +3482,8 @@
   <offer>
     <code>733739018397</code>
     <name>Now Omega 3-6-9 1200 mg 90 softgels</name>
-    <price>8306</price>
-    <saleprice>7890</saleprice>
+    <price>13779</price>
+    <saleprice>13090</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3496,22 +3496,22 @@
   <offer>
     <code>733739004864</code>
     <name>Now Pantothenic Acid 500 mg vitamin B-5 100 veg capsules</name>
-    <price>5779</price>
-    <saleprice>5490</saleprice>
-    <count>0</count>
-  </offer>
-  <offer>
-    <code>733739014481</code>
-    <name>Now Potassium Citrate 99 mg 180 veg capsules</name>
     <price>7253</price>
     <saleprice>6890</saleprice>
     <count>0</count>
   </offer>
   <offer>
+    <code>733739014481</code>
+    <name>Now Potassium Citrate 99 mg 180 veg capsules</name>
+    <price>9358</price>
+    <saleprice>8890</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
     <code>733739029263</code>
     <name>Now Probiotic-10 25 Billion 50 veg capsules</name>
-    <price>10306</price>
-    <saleprice>9790</saleprice>
+    <price>12622</price>
+    <saleprice>11990</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3566,8 +3566,8 @@
   <offer>
     <code>733739033536</code>
     <name>NOW Resveratrol 200 мг 60 капсул</name>
-    <price>12306</price>
-    <saleprice>11690</saleprice>
+    <price>16727</price>
+    <saleprice>15890</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3713,8 +3713,8 @@
   <offer>
     <code>733739003423</code>
     <name>NOW Vitamin A 25000 250 softgels</name>
-    <price>9569</price>
-    <saleprice>9090</saleprice>
+    <price>8727</price>
+    <saleprice>8290</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3734,8 +3734,8 @@
   <offer>
     <code>733739003652</code>
     <name>NOW Vitamin D-3 1000 IU 180 softgels</name>
-    <price>4200</price>
-    <saleprice>3990</saleprice>
+    <price>7569</price>
+    <saleprice>7190</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3748,8 +3748,8 @@
   <offer>
     <code>733739003768</code>
     <name>NOW Vitamin D-3 10000 IU 120 капсул</name>
-    <price>6622</price>
-    <saleprice>6290</saleprice>
+    <price>9674</price>
+    <saleprice>9190</saleprice>
     <count>1</count>
   </offer>
   <offer>
@@ -3811,8 +3811,8 @@
   <offer>
     <code>733739003706</code>
     <name>Now Liquid Vitamin 400IU D-3 59 ml</name>
-    <price>4937</price>
-    <saleprice>4690</saleprice>
+    <price>14306</price>
+    <saleprice>13590</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3853,8 +3853,8 @@
   <offer>
     <code>733739015549</code>
     <name>NOW Zinc Glycinate 30 мг №120</name>
-    <price>7779</price>
-    <saleprice>7390</saleprice>
+    <price>7253</price>
+    <saleprice>6890</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -3867,8 +3867,8 @@
   <offer>
     <code>733739015525</code>
     <name>NOW Zinc Picolinate 50 мг 120 veg capsules</name>
-    <price>7569</price>
-    <saleprice>7190</saleprice>
+    <price>8411</price>
+    <saleprice>7990</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4021,8 +4021,8 @@
   <offer>
     <code>076280549010</code>
     <name>Solaray Magnesium Glycinate 350 mg 120 veg caps</name>
-    <price>10516</price>
-    <saleprice>9990</saleprice>
+    <price>9885</price>
+    <saleprice>9390</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4105,8 +4105,8 @@
   <offer>
     <code>33984037250</code>
     <name>Solgar Zinc Picolinate 22mg</name>
-    <price>6937</price>
-    <saleprice>6590</saleprice>
+    <price>22411</price>
+    <saleprice>21290</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4154,8 +4154,8 @@
   <offer>
     <code>2000000013763</code>
     <name>Solgar Magnesium Citrate 120 tablets</name>
-    <price>16411</price>
-    <saleprice>15590</saleprice>
+    <price>41779</price>
+    <saleprice>39690</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4168,8 +4168,8 @@
   <offer>
     <code>033984002807</code>
     <name>Solgar Biotin 300 mcg 100 tablets</name>
-    <price>6411</price>
-    <saleprice>6090</saleprice>
+    <price>7990</price>
+    <saleprice>7590</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4182,29 +4182,29 @@
   <offer>
     <code>33984005204</code>
     <name>Solgar Calcium Magnesium Zinc 100 tablets</name>
-    <price>8411</price>
-    <saleprice>7990</saleprice>
-    <count>0</count>
-  </offer>
-  <offer>
-    <code>33984595972</code>
-    <name>Solgar Curcumin 30 licaps</name>
     <price>32937</price>
     <saleprice>31290</saleprice>
     <count>0</count>
   </offer>
   <offer>
+    <code>33984595972</code>
+    <name>Solgar Curcumin 30 licaps</name>
+    <price>17990</price>
+    <saleprice>17090</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
     <code>33984010574</code>
     <name>Solgar Evening Primrose Oil 1300 mg 60 softgels</name>
-    <price>12516</price>
-    <saleprice>11890</saleprice>
+    <price>11674</price>
+    <saleprice>11090</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>33984535954</code>
     <name>Solgar Folate 1000 mcg 60 tablets</name>
-    <price>11674</price>
-    <saleprice>11090</saleprice>
+    <price>10411</price>
+    <saleprice>9890</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4224,8 +4224,8 @@
   <offer>
     <code>33984012509</code>
     <name>Solgar Gentle Iron 25mg 180 capsules</name>
-    <price>14516</price>
-    <saleprice>13790</saleprice>
+    <price>48622</price>
+    <saleprice>46190</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4273,8 +4273,8 @@
   <offer>
     <code>21078007791</code>
     <name>Source Naturals Psyllium Husk 340 Grams</name>
-    <price>10411</price>
-    <saleprice>9890</saleprice>
+    <price>9253</price>
+    <saleprice>8790</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4364,8 +4364,8 @@
   <offer>
     <code>87614142876</code>
     <name>Swanson Ashwagandha extract 450 mg 60 capsules</name>
-    <price>6200</price>
-    <saleprice>5890</saleprice>
+    <price>4411</price>
+    <saleprice>4190</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4406,8 +4406,8 @@
   <offer>
     <code>87614040134</code>
     <name>Swanson Water Pills мочегонное 120 tablets</name>
-    <price>6411</price>
-    <saleprice>6090</saleprice>
+    <price>4200</price>
+    <saleprice>3990</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4441,8 +4441,8 @@
   <offer>
     <code>087614019574</code>
     <name>Swanson Vitamins Full Spectrum Aswagandha 450 mg 100 veg caps</name>
-    <price>5043</price>
-    <saleprice>4790</saleprice>
+    <price>6411</price>
+    <saleprice>6090</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4462,8 +4462,8 @@
   <offer>
     <code>031315191053</code>
     <name>Thompson Zinc Picolinate 25 мг 60 таблеток</name>
-    <price>3148</price>
-    <saleprice>2990</saleprice>
+    <price>13358</price>
+    <saleprice>12690</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4539,8 +4539,8 @@
   <offer>
     <code>878941000171</code>
     <name>Trace minerals Magnesium 400 mg 59 ml</name>
-    <price>15148</price>
-    <saleprice>14390</saleprice>
+    <price>6937</price>
+    <saleprice>6590</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4581,15 +4581,15 @@
   <offer>
     <code>810048611225</code>
     <name>YumVs Iron Vitamin C Grape flavor 60 Gummies</name>
-    <price>8306</price>
-    <saleprice>7890</saleprice>
+    <price>14516</price>
+    <saleprice>13790</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>400000000701</code>
     <name>NUTRAXIN Collagen complex саше (30 шт) 1 упаковка</name>
-    <price>14937</price>
-    <saleprice>14190</saleprice>
+    <price>23569</price>
+    <saleprice>22390</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4679,8 +4679,8 @@
   <offer>
     <code>810014674957</code>
     <name>Nutricost Women Myo &amp; D-Chiro Inositol, 120 капсул</name>
-    <price>11464</price>
-    <saleprice>10890</saleprice>
+    <price>13569</price>
+    <saleprice>12890</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -4742,15 +4742,15 @@
   <offer>
     <code>658010117791</code>
     <name>Garden of Life my kind organics B-12</name>
-    <price>11464</price>
-    <saleprice>10890</saleprice>
+    <price>9779</price>
+    <saleprice>9290</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>850008464355</code>
     <name>Havasu Nutrition Vitamin C Gummies 60 gummies</name>
-    <price>7885</price>
-    <saleprice>7490</saleprice>
+    <price>10411</price>
+    <saleprice>9890</saleprice>
     <count>0</count>
   </offer>
   <offer>
