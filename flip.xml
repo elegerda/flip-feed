@@ -5,7 +5,7 @@
     <name>21st Century Calcium Magnesium Zinc + D3 250 tablets</name>
     <price>8411</price>
     <saleprice>7990</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
     <code>740985227770</code>
@@ -187,7 +187,7 @@
     <name>21st Century Iron 65 mg Ferrous Sulfate 325 mg 120 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>3</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>740985227138</code>
@@ -551,7 +551,7 @@
     <name>Callifornia Gold Nutrition Collagen Peptides без добавок 500gr</name>
     <price>29569</price>
     <saleprice>28090</saleprice>
-    <count>4</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>898220023332</code>
@@ -649,7 +649,7 @@
     <name>California Gold Nutrition Gold C 118 мл</name>
     <price>8411</price>
     <saleprice>7990</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
     <code>898220009312</code>
@@ -1104,7 +1104,7 @@
     <name>Doctor's Best Magnesium 105 mg 120 veg caps</name>
     <price>10411</price>
     <saleprice>9890</saleprice>
-    <count>28</count>
+    <count>27</count>
   </offer>
   <offer>
     <code>753950005174</code>
@@ -1128,7 +1128,7 @@
     <count>1</count>
   </offer>
   <offer>
-    <code>753950001046</code>
+    <code>2037611677114</code>
     <name>Doctor's Best Alpha Lipoic 150, 120 veg caps</name>
     <price>11885</price>
     <saleprice>11290</saleprice>
@@ -1202,7 +1202,7 @@
     <name>Doctor's Best Magnesium 200mg, 120 tabletes</name>
     <price>8306</price>
     <saleprice>7890</saleprice>
-    <count>153</count>
+    <count>152</count>
   </offer>
   <offer>
     <code>753950002791</code>
@@ -1244,7 +1244,7 @@
     <name>Enzymedica DIgest Basic 30 capsules</name>
     <price>5253</price>
     <saleprice>4990</saleprice>
-    <count>2</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>076630169868</code>
@@ -1545,7 +1545,7 @@
     <name>Life Extensoin Cruciferous Vegetable 60 veg capsules</name>
     <price>15674</price>
     <saleprice>14890</saleprice>
-    <count>2</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>737870152910</code>
@@ -1678,7 +1678,7 @@
     <name>Life Tree D3+K2 5000 ME 30 таблеток</name>
     <price>5253</price>
     <saleprice>4990</saleprice>
-    <count>81</count>
+    <count>80</count>
   </offer>
   <offer>
     <code>400000000206</code>
@@ -1702,7 +1702,7 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>2043367723807</code>
+    <code>400000000183</code>
     <name>Life Tree Fat Burning Complex premium 30 tablets</name>
     <price>5253</price>
     <saleprice>4990</saleprice>
@@ -1716,7 +1716,7 @@
     <count>34</count>
   </offer>
   <offer>
-    <code>2043411851784</code>
+    <code>400000000220</code>
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>8316</price>
     <saleprice>7900</saleprice>
@@ -2563,7 +2563,7 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>2039743223184</code>
+    <code>733739012517</code>
     <name>Now Calcium Magnesium 120 softgels</name>
     <price>9569</price>
     <saleprice>9090</saleprice>
@@ -2990,13 +2990,6 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>733739069160</code>
-    <name>Now food Organic Monk Fruit натуральный подсластитель с 0 ккал 59 ml</name>
-    <price>6516</price>
-    <saleprice>6190</saleprice>
-    <count>0</count>
-  </offer>
-  <offer>
     <code>733739004765</code>
     <name>NOW Folic Acid 800 mcg 250 Tabletes</name>
     <price>4727</price>
@@ -3078,7 +3071,7 @@
     <name>Now Inositol 500mg 100 veg caps</name>
     <price>7253</price>
     <saleprice>6890</saleprice>
-    <count>30</count>
+    <count>29</count>
   </offer>
   <offer>
     <code>733739029447</code>
@@ -3708,7 +3701,7 @@
     <name>NOW Ultra Omega-3 90 капсул</name>
     <price>14095</price>
     <saleprice>13390</saleprice>
-    <count>7</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>733739003423</code>
@@ -3828,13 +3821,6 @@
     <price>14306</price>
     <saleprice>13590</saleprice>
     <count>2</count>
-  </offer>
-  <offer>
-    <code>733739071392</code>
-    <name>Now Xylitol 454 g</name>
-    <price>7885</price>
-    <saleprice>7490</saleprice>
-    <count>0</count>
   </offer>
   <offer>
     <code>733739015204</code>
@@ -4635,13 +4621,6 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>850039253515</code>
-    <name>Snap Supplements postnatal vitamin 60 cups</name>
-    <price>15569</price>
-    <saleprice>14790</saleprice>
-    <count>0</count>
-  </offer>
-  <offer>
     <code>810012470001</code>
     <name>Sunlipid Liposomal Vitamin C + MCT Oil, 30 пакетиков</name>
     <price>16937</price>
@@ -4758,13 +4737,6 @@
     <name>Old Spice Beard Balm 63 g 2.22oz</name>
     <price>9148</price>
     <saleprice>8690</saleprice>
-    <count>0</count>
-  </offer>
-  <offer>
-    <code>035046074227</code>
-    <name>RejuviCare Hair, Skin, Nails 30 capletes</name>
-    <price>5253</price>
-    <saleprice>4990</saleprice>
     <count>0</count>
   </offer>
 </offers>
