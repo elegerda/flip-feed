@@ -82,7 +82,7 @@
     <name>21st Century Acidophilus 100 capsules</name>
     <price>5779</price>
     <saleprice>5490</saleprice>
-    <count>3</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>740985229286</code>
@@ -103,7 +103,7 @@
     <name>21st Centry Calcium 1200 mg 90 softgels</name>
     <price>8937</price>
     <saleprice>8490</saleprice>
-    <count>5</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>740985275320</code>
@@ -138,14 +138,14 @@
     <name>21st Century Calcium Citrate + D3 75 tabletes</name>
     <price>4622</price>
     <saleprice>4390</saleprice>
-    <count>5</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>740985222638</code>
     <name>21st Century Calcium Magnesium Zinc + D3 90 таблеток</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>433</count>
+    <count>432</count>
   </offer>
   <offer>
     <code>740985213681</code>
@@ -180,7 +180,7 @@
     <name>21st Century Folic Acid 400 mcg 250 tablets</name>
     <price>3253</price>
     <saleprice>3090</saleprice>
-    <count>31</count>
+    <count>30</count>
   </offer>
   <offer>
     <code>740985226704</code>
@@ -397,7 +397,7 @@
     <name>21st Century Vitamin E 400IU 180 mg 110 softgels</name>
     <price>5885</price>
     <saleprice>5590</saleprice>
-    <count>66</count>
+    <count>65</count>
   </offer>
   <offer>
     <code>740985223437</code>
@@ -558,7 +558,7 @@
     <name>California Gold Nutrition Vitamin D3 + K2 as MK-7, 180 капсул</name>
     <price>13043</price>
     <saleprice>12390</saleprice>
-    <count>0</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>898220020232</code>
@@ -915,7 +915,7 @@
     <name>Carlson Chelated Iron 27 mg, 250 tablets</name>
     <price>15674</price>
     <saleprice>14890</saleprice>
-    <count>4</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>88395015434</code>
@@ -950,7 +950,7 @@
     <name>Carlson kids Iron 15 mg 60 tablets</name>
     <price>5358</price>
     <saleprice>5090</saleprice>
-    <count>2</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>88395015267</code>
@@ -1195,21 +1195,21 @@
     <name>Doctor's Best High Absorption Magnesium 200mg,240 tabletes</name>
     <price>17043</price>
     <saleprice>16190</saleprice>
-    <count>41</count>
+    <count>40</count>
   </offer>
   <offer>
     <code>753950000254</code>
     <name>Doctor's Best Magnesium 200mg, 120 tabletes</name>
     <price>9043</price>
     <saleprice>8590</saleprice>
-    <count>119</count>
+    <count>118</count>
   </offer>
   <offer>
     <code>753950002791</code>
     <name>Doctors Best Nac Detox Regulators 60 veg caps</name>
     <price>7779</price>
     <saleprice>7390</saleprice>
-    <count>19</count>
+    <count>18</count>
   </offer>
   <offer>
     <code>753950001367</code>
@@ -1301,6 +1301,13 @@
     <price>7885</price>
     <saleprice>7490</saleprice>
     <count>3</count>
+  </offer>
+  <offer>
+    <code>049479501335</code>
+    <name>Futurebiotics Vitamin K2+D3 Extra Strength 120 caps</name>
+    <price>10095</price>
+    <saleprice>9590</saleprice>
+    <count>0</count>
   </offer>
   <offer>
     <code>049479500703</code>
@@ -1503,7 +1510,7 @@
     <name>Life Extension Melatonin 3 mg 60 veg caps</name>
     <price>4622</price>
     <saleprice>4390</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
     <code>737870193715</code>
@@ -1566,7 +1573,7 @@
     <name>Life Extension Magnesium Caps 500 mg 100 veg capsule</name>
     <price>5148</price>
     <saleprice>4890</saleprice>
-    <count>11</count>
+    <count>10</count>
   </offer>
   <offer>
     <code>737870168218</code>
@@ -1664,7 +1671,7 @@
     <name>Life Flo Iodine orange flavor 59 ml</name>
     <price>5253</price>
     <saleprice>4990</saleprice>
-    <count>3</count>
+    <count>11</count>
   </offer>
   <offer>
     <code>645951405308</code>
@@ -1720,7 +1727,7 @@
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>8316</price>
     <saleprice>7900</saleprice>
-    <count>257</count>
+    <count>256</count>
   </offer>
   <offer>
     <code>400000000725</code>
@@ -1811,7 +1818,7 @@
     <name>Kirkland Minoxidil 5% для мужчин 1 флакон 60 мл</name>
     <price>5544</price>
     <saleprice>5266</saleprice>
-    <count>184</count>
+    <count>183</count>
   </offer>
   <offer>
     <code>2040410020623</code>
@@ -1972,7 +1979,7 @@
     <name>Natural Factors Thyroid Health Formula 60 veg capsules</name>
     <price>8200</price>
     <saleprice>7790</saleprice>
-    <count>21</count>
+    <count>20</count>
   </offer>
   <offer>
     <code>068958010557</code>
@@ -2042,7 +2049,7 @@
     <name>Nature's Bounty Ca, Mg, Zn + d3 100 coated capletes</name>
     <price>5253</price>
     <saleprice>4990</saleprice>
-    <count>13</count>
+    <count>12</count>
   </offer>
   <offer>
     <code>074312793349</code>
@@ -3078,7 +3085,7 @@
     <name>NOW Inulin 227g</name>
     <price>8937</price>
     <saleprice>8490</saleprice>
-    <count>10</count>
+    <count>9</count>
   </offer>
   <offer>
     <code>733739014443</code>
@@ -3183,7 +3190,7 @@
     <name>Now L-Lysine 500 mg 100 tablets</name>
     <price>4516</price>
     <saleprice>4290</saleprice>
-    <count>2</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>733739001450</code>
@@ -3743,7 +3750,7 @@
     <name>NOW Vitamin D-3 10000 IU 120 капсул</name>
     <price>6622</price>
     <saleprice>6290</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
     <code>733739003850</code>
@@ -4009,7 +4016,7 @@
     <name>Solaray Magnesium Glycinate 350 mg 120 veg caps</name>
     <price>10411</price>
     <saleprice>9890</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>76280627541</code>
@@ -4030,7 +4037,7 @@
     <name>Solaray Vitamin D3 + K2 125 mcg 60 vegcaps</name>
     <price>9043</price>
     <saleprice>8590</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
     <code>076280574456</code>
@@ -4590,7 +4597,7 @@
     <name>Nutricost Women Myo &amp; D-Chiro Inositol, 120 капсул</name>
     <price>10411</price>
     <saleprice>9890</saleprice>
-    <count>7</count>
+    <count>10</count>
   </offer>
   <offer>
     <code>895749000752</code>
