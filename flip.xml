@@ -243,14 +243,14 @@
     <name>21st Century Mega Multi для мужчин 90 таблеток</name>
     <price>8832</price>
     <saleprice>8390</saleprice>
-    <count>21</count>
+    <count>28</count>
   </offer>
   <offer>
     <code>740985273050</code>
     <name>21st Century One Daily Men's 100 таблеток</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>32</count>
+    <count>43</count>
   </offer>
   <offer>
     <code>740985273067</code>
@@ -1132,7 +1132,7 @@
     <name>Doctor's Best Vitamin D3 50 mcg (2000 IU) 180 softgels</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>24</count>
+    <count>25</count>
   </offer>
   <offer>
     <code>753950000889</code>
@@ -1242,8 +1242,8 @@
   <offer>
     <code>670480981207</code>
     <name>Enzymedica Acid Soothe 90 capsules</name>
-    <price>13148</price>
-    <saleprice>12490</saleprice>
+    <price>23779</price>
+    <saleprice>22590</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -1270,9 +1270,9 @@
   <offer>
     <code>76630169714</code>
     <name>American Health Ester-C 500 mg 90 veg tablets</name>
-    <price>6727</price>
-    <saleprice>6390</saleprice>
-    <count>2</count>
+    <price>8937</price>
+    <saleprice>8490</saleprice>
+    <count>6</count>
   </offer>
   <offer>
     <code>076630169653</code>
@@ -1291,15 +1291,15 @@
   <offer>
     <code>818901020672</code>
     <name>EVlution Nutrition women multivitamin 60 servings</name>
-    <price>12411</price>
-    <saleprice>11790</saleprice>
+    <price>15674</price>
+    <saleprice>14890</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>810126660527</code>
     <name>Force Factor Vitamin D3 5000 IU 120 softgels</name>
-    <price>3885</price>
-    <saleprice>3690</saleprice>
+    <price>6832</price>
+    <saleprice>6490</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -1340,8 +1340,8 @@
   <offer>
     <code>790011180166</code>
     <name>Jarrow Formulas Methyl B-12 2500mg 100 chewables</name>
-    <price>14095</price>
-    <saleprice>13390</saleprice>
+    <price>16727</price>
+    <saleprice>15890</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -1438,29 +1438,29 @@
   <offer>
     <code>898220016778</code>
     <name>Lake Avenue Methyl Folate 1360 mcg 120 veg capsules</name>
-    <price>8200</price>
-    <saleprice>7790</saleprice>
+    <price>10516</price>
+    <saleprice>9990</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>898220016761</code>
     <name>Lake Avenue Biotin 5.000 mcg 30 veg capsules</name>
-    <price>3253</price>
-    <saleprice>3090</saleprice>
+    <price>4727</price>
+    <saleprice>4490</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>898220020898</code>
     <name>Lake Avenue High Potency B complex 30 veg capsules</name>
-    <price>3885</price>
-    <saleprice>3690</saleprice>
+    <price>10516</price>
+    <saleprice>9990</saleprice>
     <count>0</count>
   </offer>
   <offer>
     <code>898220014095</code>
     <name>Lake Avenue vitamin C Quali- C 60 veg capsules</name>
-    <price>1253</price>
-    <saleprice>1190</saleprice>
+    <price>4200</price>
+    <saleprice>3990</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -1522,8 +1522,8 @@
   <offer>
     <code>737870330066</code>
     <name>Life Extension Melatonin 3 mg 60 veg caps</name>
-    <price>4622</price>
-    <saleprice>4390</saleprice>
+    <price>4727</price>
+    <saleprice>4490</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -1578,9 +1578,9 @@
   <offer>
     <code>737870154112</code>
     <name>Life Extention Glutathione Cysteine 100 caps</name>
-    <price>13674</price>
-    <saleprice>12990</saleprice>
-    <count>2</count>
+    <price>13885</price>
+    <saleprice>13190</saleprice>
+    <count>3</count>
   </offer>
   <offer>
     <code>737870145912</code>
@@ -1662,8 +1662,8 @@
   <offer>
     <code>737870225263</code>
     <name>Life Extension Youthful Legs 60 softgels</name>
-    <price>8937</price>
-    <saleprice>8490</saleprice>
+    <price>16516</price>
+    <saleprice>15690</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -1760,8 +1760,8 @@
   <offer>
     <code>400000000077</code>
     <name>Life Tree Zinc chelate 60 capsules</name>
-    <price>3575</price>
-    <saleprice>3396</saleprice>
+    <price>31579</price>
+    <saleprice>30000</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -1781,8 +1781,8 @@
   <offer>
     <code>311845077912</code>
     <name>Mason Natural K 100 mcg 100 tablets</name>
-    <price>3358</price>
-    <saleprice>3190</saleprice>
+    <price>6306</price>
+    <saleprice>5990</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -1795,8 +1795,8 @@
   <offer>
     <code>311845171153</code>
     <name>Mason Natural Healthy Kids PROBIOTIC 60 chewables</name>
-    <price>5253</price>
-    <saleprice>4990</saleprice>
+    <price>9779</price>
+    <saleprice>9290</saleprice>
     <count>0</count>
   </offer>
   <offer>
@@ -2574,7 +2574,7 @@
     <name>NOW Sunflower Lecithin 1200mg 100 softgels</name>
     <price>8095</price>
     <saleprice>7690</saleprice>
-    <count>34</count>
+    <count>36</count>
   </offer>
   <offer>
     <code>733739026767</code>
@@ -3211,7 +3211,7 @@
     <name>Now L-Lysine 500 mg 100 tablets</name>
     <price>4516</price>
     <saleprice>4290</saleprice>
-    <count>3</count>
+    <count>4</count>
   </offer>
   <offer>
     <code>733739001450</code>
@@ -3526,7 +3526,7 @@
     <name>Now Potassium Citrate 99 mg 180 veg capsules</name>
     <price>7043</price>
     <saleprice>6690</saleprice>
-    <count>2</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>733739029263</code>
@@ -4030,7 +4030,7 @@
     <name>Solaray Iron 50 mg 60 veg caps</name>
     <price>4832</price>
     <saleprice>4590</saleprice>
-    <count>0</count>
+    <count>9</count>
   </offer>
   <offer>
     <code>076280549010</code>
@@ -4233,7 +4233,7 @@
     <name>Solgar Gentle Iron 25mg 180 capsules</name>
     <price>15569</price>
     <saleprice>14790</saleprice>
-    <count>4</count>
+    <count>6</count>
   </offer>
   <offer>
     <code>33984012882</code>
@@ -4394,7 +4394,7 @@
     <name>Swanson DHEA 10 mg 120 capsules</name>
     <price>5253</price>
     <saleprice>4990</saleprice>
-    <count>3</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>87614019833</code>
@@ -4408,7 +4408,7 @@
     <name>Swanson Water Pills мочегонное 120 tablets</name>
     <price>6411</price>
     <saleprice>6090</saleprice>
-    <count>2</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>087614111131</code>
