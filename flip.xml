@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
   <offer>
+    <code>740985223529</code>
+    <name>21st Century Herbal Slimming Tea Cranraspberry 24 tea bags 48 g</name>
+    <price>3358</price>
+    <saleprice>3190</saleprice>
+    <count>1</count>
+  </offer>
+  <offer>
     <code>740985280485</code>
     <name>21st Century Calcium Magnesium Zinc + D3 250 tablets</name>
     <price>8411</price>
@@ -603,6 +610,13 @@
     <count>0</count>
   </offer>
   <offer>
+    <code>898220011902</code>
+    <name>California Gold Nutrition Coconut Oil</name>
+    <price>9253</price>
+    <saleprice>8790</saleprice>
+    <count>1</count>
+  </offer>
+  <offer>
     <code>898220018635</code>
     <name>Callifornia Gold Nutrition Collagen Peptides без витамина С 200gr</name>
     <price>11043</price>
@@ -649,7 +663,7 @@
     <name>California Gold Nutrition Gold C 118 мл</name>
     <price>8622</price>
     <saleprice>8190</saleprice>
-    <count>2</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>898220009312</code>
@@ -925,7 +939,7 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>88395016530</code>
+    <code>088395016530</code>
     <name>Carlson kids Omega-3s 800 mg Natural Orange flavor 200ml</name>
     <price>20095</price>
     <saleprice>19090</saleprice>
@@ -946,7 +960,7 @@
     <count>1</count>
   </offer>
   <offer>
-    <code>88395559402</code>
+    <code>088395559402</code>
     <name>Carlson kids Iron 15 mg 60 tablets</name>
     <price>5358</price>
     <saleprice>5090</saleprice>
@@ -1072,7 +1086,7 @@
     <count>1</count>
   </offer>
   <offer>
-    <code>15794063100</code>
+    <code>015794063100</code>
     <name>Country Life Methylfolate orange flavor 800 mg 60 tablets</name>
     <price>17779</price>
     <saleprice>16890</saleprice>
@@ -1947,7 +1961,7 @@
     <count>9</count>
   </offer>
   <offer>
-    <code>68958016375</code>
+    <code>068958016375</code>
     <name>Natural Factors Chromium Picolinate 500 mcg 90 tablets</name>
     <price>6937</price>
     <saleprice>6590</saleprice>
@@ -2115,7 +2129,7 @@
     <count>6</count>
   </offer>
   <offer>
-    <code>97467299740</code>
+    <code>097467299740</code>
     <name>NaturesPlus Animal Parade Orange 90 tablets</name>
     <price>12937</price>
     <saleprice>12290</saleprice>
@@ -2353,7 +2367,7 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>33674157862</code>
+    <code>033674157862</code>
     <name>Nature's Way Alive! для детей 120 жев.</name>
     <price>10937</price>
     <saleprice>10390</saleprice>
@@ -4023,7 +4037,7 @@
     <name>Solaray Magnesium Glycinate 350 mg 120 veg caps</name>
     <price>10411</price>
     <saleprice>9890</saleprice>
-    <count>8</count>
+    <count>7</count>
   </offer>
   <offer>
     <code>76280627541</code>
@@ -4054,7 +4068,7 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>33984025516</code>
+    <code>033984025516</code>
     <name>Solgar Selenium 100mcg 100 tabletes</name>
     <price>10516</price>
     <saleprice>9990</saleprice>
@@ -4145,6 +4159,13 @@
     <count>0</count>
   </offer>
   <offer>
+    <code>033984547070</code>
+    <name>Solgar Curcumin 60 licaps</name>
+    <price>41779</price>
+    <saleprice>39690</saleprice>
+    <count>1</count>
+  </offer>
+  <offer>
     <code>33984031807</code>
     <name>Solgar B-12 100 Mcg 100 tabl</name>
     <price>7464</price>
@@ -4201,14 +4222,14 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>33984012493</code>
+    <code>033984012493</code>
     <name>Solgar Gentle Iron 25mg 90 veg capsules</name>
     <price>7779</price>
     <saleprice>7390</saleprice>
     <count>0</count>
   </offer>
   <offer>
-    <code>33984012509</code>
+    <code>033984012509</code>
     <name>Solgar Gentle Iron 25mg 180 capsules</name>
     <price>15569</price>
     <saleprice>14790</saleprice>
@@ -4572,6 +4593,13 @@
     <count>9</count>
   </offer>
   <offer>
+    <code>841058001706</code>
+    <name>BULL DOG крем для лица контроль жирной кожи 100 ml</name>
+    <price>5569</price>
+    <saleprice>5290</saleprice>
+    <count>1</count>
+  </offer>
+  <offer>
     <code>898220003280</code>
     <name>Sierra Bees помада 1 шт</name>
     <price>727</price>
@@ -4695,6 +4723,48 @@
     <name>Nuun Hydration Sport 10 tablets</name>
     <price>4622</price>
     <saleprice>4390</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
+    <code>810014670836</code>
+    <name>Nutricost, Ox Bile , 500 mg, 120 capsules  (ТПЗ)</name>
+    <price>12411</price>
+    <saleprice>11790</saleprice>
+    <count>1</count>
+  </offer>
+  <offer>
+    <code>898220009633</code>
+    <name>California Gold Nutrition LactoBif® 5 5 млрд КОЕ 60 veg caps (ТПЗ)</name>
+    <price>6411</price>
+    <saleprice>6090</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
+    <code>733739000835</code>
+    <name>NOW Foods L-Citrulline 750 mg 90 veg caps (ТПЗ)</name>
+    <price>12516</price>
+    <saleprice>11890</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
+    <code>898220018987</code>
+    <name>California Gold Nutrition L-Glutathione  (reduced) 500 mg 120 veg caps (ТПЗ)</name>
+    <price>26622</price>
+    <saleprice>25290</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
+    <code>733739039101</code>
+    <name>NOW Foods B12 Liposomal spray 59 ml (ТПЗ)</name>
+    <price>8411</price>
+    <saleprice>7990</saleprice>
+    <count>0</count>
+  </offer>
+  <offer>
+    <code>087614025087</code>
+    <name>Swanson FiberAid, Larch Tree Arabinogalactan 250 g (8,8 OZ) (ТПЗ)</name>
+    <price>15569</price>
+    <saleprice>14790</saleprice>
     <count>0</count>
   </offer>
   <offer>
