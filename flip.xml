@@ -3925,7 +3925,7 @@
     <name>Nutribiotic Sodium Ascorbate 227 g</name>
     <price>8622</price>
     <saleprice>8190</saleprice>
-    <count>4</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>728177004606</code>
@@ -4397,11 +4397,11 @@
     <count>2</count>
   </offer>
   <offer>
-    <code>87614027197</code>
+    <code>087614027197</code>
     <name>Swanson Biotin 10 000 mcg замедленного высвобождения 60 tablets</name>
     <price>7569</price>
     <saleprice>7190</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
     <code>87614142876</code>
@@ -4411,21 +4411,21 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>87614024684</code>
+    <code>087614024684</code>
     <name>Swanson Copper 2 mg 60 capsules</name>
     <price>4411</price>
     <saleprice>4190</saleprice>
-    <count>1</count>
+    <count>0</count>
   </offer>
   <offer>
-    <code>87614019222</code>
+    <code>087614019222</code>
     <name>Swanson Chromium Picolinate 200 mcg 100 capsules</name>
     <price>3674</price>
     <saleprice>3490</saleprice>
-    <count>4</count>
+    <count>0</count>
   </offer>
   <offer>
-    <code>87614022611</code>
+    <code>087614022611</code>
     <name>Swanson DHEA 50 mg 120 capsules</name>
     <price>17569</price>
     <saleprice>16690</saleprice>
@@ -6336,13 +6336,6 @@
     <count>4</count>
   </offer>
   <offer>
-    <code>733739046215</code>
-    <name>NOW Cat's Claw 500mg 100 veg capsules</name>
-    <price>5464</price>
-    <saleprice>5190</saleprice>
-    <count>0</count>
-  </offer>
-  <offer>
     <code>2037605027604</code>
     <name>NOW D3 и K2 120 капсул</name>
     <price>12266</price>
@@ -6945,28 +6938,28 @@
     <count>0</count>
   </offer>
   <offer>
-    <code>087614027197</code>
+    <code>87614027197</code>
     <name>Swanson Biotin 10 000 mcg замедленного высвобождения 60 tablets</name>
     <price>7569</price>
     <saleprice>7190</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
-    <code>087614024684</code>
+    <code>87614024684</code>
     <name>Swanson Copper 2 mg 60 capsules</name>
     <price>4411</price>
     <saleprice>4190</saleprice>
-    <count>0</count>
+    <count>1</count>
   </offer>
   <offer>
-    <code>087614019222</code>
+    <code>87614019222</code>
     <name>Swanson Chromium Picolinate 200 mcg 100 capsules</name>
     <price>3674</price>
     <saleprice>3490</saleprice>
-    <count>0</count>
+    <count>4</count>
   </offer>
   <offer>
-    <code>087614022611</code>
+    <code>87614022611</code>
     <name>Swanson DHEA 50 mg 120 capsules</name>
     <price>17569</price>
     <saleprice>16690</saleprice>
