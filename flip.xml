@@ -54,7 +54,7 @@
     <name>21st Century B-6 100 mg 110 tablets</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>2</count>
+    <count>3</count>
   </offer>
   <offer>
     <code>740985223093</code>
@@ -145,21 +145,21 @@
     <name>21st Century Calcium Citrate + D3 75 tabletes</name>
     <price>4622</price>
     <saleprice>4390</saleprice>
-    <count>10</count>
+    <count>14</count>
   </offer>
   <offer>
     <code>740985222638</code>
     <name>21st Century Calcium Magnesium Zinc + D3 90 таблеток</name>
     <price>3779</price>
     <saleprice>3590</saleprice>
-    <count>507</count>
+    <count>518</count>
   </offer>
   <offer>
     <code>740985213681</code>
     <name>21st Century Chromium Picolinate 200mcg 100tabletes</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>73</count>
+    <count>72</count>
   </offer>
   <offer>
     <code>740985225561</code>
@@ -194,7 +194,7 @@
     <name>21st Century Iron 65 mg Ferrous Sulfate 325 mg 120 tablets</name>
     <price>7346</price>
     <saleprice>3673</saleprice>
-    <count>30</count>
+    <count>33</count>
   </offer>
   <offer>
     <code>740985227138</code>
@@ -250,7 +250,7 @@
     <name>21st Century One Daily Men's 100 таблеток</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>37</count>
+    <count>44</count>
   </offer>
   <offer>
     <code>740985273067</code>
@@ -369,7 +369,7 @@
     <name>21st Century Vitamin C 1000 мг 60 таблеток</name>
     <price>3253</price>
     <saleprice>3090</saleprice>
-    <count>10</count>
+    <count>13</count>
   </offer>
   <offer>
     <code>740985280300</code>
@@ -733,7 +733,7 @@
     <name>California Gold Nutrition L-Theanine 200 mg 60 vegcapsules</name>
     <price>10411</price>
     <saleprice>9890</saleprice>
-    <count>32</count>
+    <count>33</count>
   </offer>
   <offer>
     <code>898220009657</code>
@@ -866,7 +866,7 @@
     <name>California Gold Nutrition Vitamin D-3 5000 IU 90 капсул</name>
     <price>7768</price>
     <saleprice>3884</saleprice>
-    <count>16</count>
+    <count>24</count>
   </offer>
   <offer>
     <code>898220008711</code>
@@ -1720,7 +1720,7 @@
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>8316</price>
     <saleprice>7900</saleprice>
-    <count>250</count>
+    <count>249</count>
   </offer>
   <offer>
     <code>400000000725</code>
@@ -2238,7 +2238,7 @@
     <name>Nature's Plus Animal Parade Mag Kidz 90 Tablets</name>
     <price>14074</price>
     <saleprice>7037</saleprice>
-    <count>182</count>
+    <count>181</count>
   </offer>
   <offer>
     <code>97467299948</code>
@@ -3316,7 +3316,7 @@
     <name>Now Magnesium Calcium 100 таблеток</name>
     <price>16326</price>
     <saleprice>8163</saleprice>
-    <count>2</count>
+    <count>1</count>
   </offer>
   <offer>
     <code>733739012784</code>
@@ -3372,7 +3372,7 @@
     <name>Now Magnesium Citrate 227g</name>
     <price>17779</price>
     <saleprice>16890</saleprice>
-    <count>3</count>
+    <count>2</count>
   </offer>
   <offer>
     <code>733739012890</code>
@@ -3855,7 +3855,7 @@
     <name>Now Liquid Vitamin 400IU D-3 59 ml</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>6</count>
+    <count>5</count>
   </offer>
   <offer>
     <code>733739003799</code>
@@ -4898,21 +4898,21 @@
     <name>21st Century Calcium Magnesium Zinc + D3 90 таблеток</name>
     <price>3779</price>
     <saleprice>3590</saleprice>
-    <count>507</count>
+    <count>518</count>
   </offer>
   <offer>
     <code>2037453735904</code>
     <name>21st Century Chromium Picolinate 200mcg 100tabletes</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>73</count>
+    <count>72</count>
   </offer>
   <offer>
     <code>2039403175198</code>
     <name>21st Century Chromium Picolinate 200mcg 100tabletes</name>
     <price>3885</price>
     <saleprice>3690</saleprice>
-    <count>73</count>
+    <count>72</count>
   </offer>
   <offer>
     <code>2037665315192</code>
@@ -4989,7 +4989,7 @@
     <name>21st Century One Daily Men's 100 таблеток</name>
     <price>4727</price>
     <saleprice>4490</saleprice>
-    <count>37</count>
+    <count>44</count>
   </offer>
   <offer>
     <code>2037597552085</code>
@@ -5297,7 +5297,7 @@
     <name>California Gold Nutrition Vitamin D-3 5000 IU 90 капсул</name>
     <price>7768</price>
     <saleprice>3884</saleprice>
-    <count>16</count>
+    <count>24</count>
   </offer>
   <offer>
     <code>2036749693355</code>
@@ -5836,28 +5836,28 @@
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>8316</price>
     <saleprice>7900</saleprice>
-    <count>250</count>
+    <count>249</count>
   </offer>
   <offer>
     <code>2037680788902</code>
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>8316</price>
     <saleprice>7900</saleprice>
-    <count>250</count>
+    <count>249</count>
   </offer>
   <offer>
     <code>2050452128263</code>
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>8316</price>
     <saleprice>7900</saleprice>
-    <count>250</count>
+    <count>249</count>
   </offer>
   <offer>
     <code>2050086248382</code>
     <name>Life Tree Magnesium chelate 90 capsules</name>
     <price>8316</price>
     <saleprice>7900</saleprice>
-    <count>250</count>
+    <count>249</count>
   </offer>
   <offer>
     <code>4670227414834</code>
@@ -6116,14 +6116,14 @@
     <name>Nature's Plus Animal Parade Mag Kidz 90 Tablets</name>
     <price>14074</price>
     <saleprice>7037</saleprice>
-    <count>182</count>
+    <count>181</count>
   </offer>
   <offer>
     <code>2044682604079</code>
     <name>Nature's Plus Animal Parade Mag Kidz 90 Tablets</name>
     <price>14074</price>
     <saleprice>7037</saleprice>
-    <count>182</count>
+    <count>181</count>
   </offer>
   <offer>
     <code>2037658258956</code>
